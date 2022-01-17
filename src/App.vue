@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1 class="header">Мой персональный калькулятор</h1>
+      <h1 class="header">Персональный калькулятор</h1>
     </header>
     <main class="main">
       <button class="btn" @click="addRemoteForm">
